@@ -7,3 +7,5 @@
   -- **AS**: To create readable column aliases for final reporting.
 
   -- **ORDER BY & LIMIT**: To extract top-tier insights and ranked results.
+
+**PAGINATION** : Only seeing the decided no. of pages at a time.
