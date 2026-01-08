@@ -20,6 +20,17 @@ select * from subscription_services;
 select * from travel_booking;
 
 --------------------------------------------------------------
+-- Pagination
+select * from travel_booking 
+order by booking_id
+limit 10 offset 0;
+--limit 10 offset 10;
+--limit 10 offset 20;
+--limit 10 offset 30;
+--limit 10 offset 40;
+--This will show next page everytime you click on any of query
+
+--------------------------------------------------------------
 
 -- Find employees in 'Data Analyst', 'Data Scientist', or 'Analyst' roles 
 --with salaries BETWEEN 40,000 and 60,000. Alias first_name AS employee_name, 
