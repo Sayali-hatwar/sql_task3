@@ -1,0 +1,51 @@
+"book_id","book_title","author_name","member_id","loan_date","is_returned"
+1,"The Silent Page","Aarav Mehta",201,"2023-01-12",True
+2,"Winds of Dawn","Riya Kapoor",202,"2023-02-18",False
+3,"Shadows of Ink","Kabir Shah",203,"2023-03-05",True
+4,"Broken Chapters","Aanya Patel",204,"2023-01-25",False
+5,"Golden Library","Rohan Nair",205,"2023-04-11",True
+6,"Edge of Stories","Kiara Deshmukh",206,"2023-02-07",True
+7,"The Lost Volume","Ishaan Khurana",207,"2023-03-29",False
+8,"Tales of Ember","Meera Bhatia",208,"2023-01-17",True
+9,"Paper Dreams","Aarav Kulkarni",209,"2023-04-20",False
+11,"The Last Bookmark","Ananya Roy",211,"2023-03-03",False
+14,"The Hidden Shelf","Arjun Menon",214,"2023-03-22",False
+15,"Forest of Pages","Rehan Joshi",215,"2023-01-30",True
+17,"The Bound Journey","Samar Reddy",217,"2023-02-27",False
+18,"Candlelight Tales","Mira Shah",218,"2023-03-10",True
+19,"The Scribbled Night","Kavya Iyer",219,"2023-01-13",False
+20,"Inkbound","Dev Sharma",220,"2023-04-05",True
+21,"Realm of Stories","Nisha Kadam",221,"2023-02-02",True
+22,"Borrowed Time","Aditya Malhotra",222,"2023-03-12",False
+23,"The Rusted Pen","Ruhi Saxena",223,"2023-04-18",True
+24,"Under the Lamp","Dhruv Sen",224,"2023-01-21",True
+25,"Cupboard of Tales","Anvi Pandit",225,"2023-03-01",False
+26,"Mystic Chronicles","Aarav Jain",226,"2023-02-26",True
+27,"The Endless Read","Rhea Borkar",227,"2023-04-08",True
+28,"Frames of Fiction","Samarth Date",228,"2023-02-15",False
+29,"Echo Library","Tanvi Paul",229,"2023-03-25",True
+30,"Pages of Eternity","Harshit Dutta",230,"2023-01-28",False
+31,"The Wandering Book","Jiya D’Souza",231,"2023-04-14",True
+32,"Lantern of Words","Arnav Gokhale",232,"2023-02-20",False
+33,"The Brown Cover","Zaina Rahman",233,"2023-03-18",True
+34,"Library of Stars","Neil Fernandes",234,"2023-01-09",True
+35,"The Quiet Author","Aishwarya Solanki",235,"2023-04-03",False
+36,"Keys to Fiction","Rudra Verma",236,"2023-02-11",True
+38,"The Dark Binding","Kabir Rao",238,"2023-01-31",True
+39,"Shelf of Secrets","Anaya Chhabra",239,"2023-04-12",True
+40,"The Booksmith","Rithvik Menon",240,"2023-02-05",False
+41,"Beyond the Covers","Zoya Merchant",241,"2023-03-14",True
+42,"The Ink Horizon","Aarush Thakur",242,"2023-01-20",False
+43,"Whisper Library","Nivaan Kapoor",243,"2023-04-09",True
+44,"Moonlit Tales","Diya Shinde",244,"2023-02-24",True
+45,"Pages of Frost","Rohan Jagtap",245,"2023-03-02",False
+46,"The Old Manuscript","Kiara Suri",246,"2023-01-16",True
+47,"The Hidden Reader","Vivaan Rathod",247,"2023-04-22",False
+48,"Book of Echoes","Tisha Ahuja",248,"2023-02-13",True
+49,"Ink Trails","Aarav Desai",249,"2023-03-27",False
+50,"The Last Index","Naina Bansal",250,"2023-01-26",True
+13,"Midnight Reader","Shashi Tharoor",213,"2023-02-09",True
+10,"The Indian Girl","Chetan Bhagat",210,"2023-02-14",True
+12,"Ocean of Letters","Vivaan Suri",212,"2023-05-01",True
+37,"The Cloud Library","Myra Nanda",237,"2023-03-07",False
+16,"Whispers of Books","Arjun Reddy",216,"2023-04-16",True
